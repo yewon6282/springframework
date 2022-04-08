@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+/Users/kim-yewon/Desktop/osstem/workspace/springframework/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+617205001.index
+50446815.index
+1540366358.index
+1454777513.index
